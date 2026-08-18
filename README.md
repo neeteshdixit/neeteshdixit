@@ -54,16 +54,14 @@ Currently, I specialize in **Java Full Stack** and **MERN Stack** development, w
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=neeteshdixit&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=neeteshdixit&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=neeteshdixit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Activity Overview:
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=neeteshdixit&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=neeteshdixit&limit=5&theme=dark&combine_all_yearly_contributions=true)
+| Metric | Details |
+| :--- | :--- |
+| **Total Commits** | *Update with your total commits (e.g., 500+)* |
+| **Repositories Built** | *Update with your total public repos (e.g., 20+)* |
+| **Primary Languages** | Java, JavaScript, Python, SQL |
+| **Current Focus** | Java Full Stack, Spring Boot, React Native |
 
 ---
 [![](https://visitcount.itsvg.in/api?id=neeteshdixit&icon=0&color=0)](https://visitcount.itsvg.in)
