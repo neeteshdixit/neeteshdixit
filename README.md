@@ -3,7 +3,7 @@
 # 💫 About Me:
 I am a passionate **Software Developer** with a strong background in building scalable applications across multiple stacks. I have a deep foundation in **Data Structures & Algorithms (DSA)** from basic to advanced levels, and I love solving complex computational problems. 
 
-Currently, I specialize in **Java Full Stack** and **MERN Stack** development, while continuously exploring areas like mobile app development and AI/ML.
+Currently, I specialize in **Java Full Stack** and **MERN Stack** development, while continuously exploring areas like System Design, mobile app development, and AI/ML.
 
 ---
 
@@ -22,7 +22,9 @@ Currently, I specialize in **Java Full Stack** and **MERN Stack** development, w
     *   **Database:** MongoDB, Mongoose ODM.
     *   **Integration:** REST API integration, State Management.
 
-*   **📱 Mobile & Other Skills:**
+*   **🧠 Core & Other Skills:**
+    *   **Data Structures & Algorithms (DSA):** Basic to Advanced problem-solving.
+    *   **System Design:** Low-Level Design (LLD) fundamentals, High-Level Design (HLD) concepts, Scalability basics.
     *   **Mobile Development:** React Native (Learning & building cross-platform apps).
     *   **Data Science & AI/ML:** Python, NumPy, Pandas, Matplotlib (Basic to Intermediate analysis).
     *   **Computer Science Fundamentals:** Computer Networks, Operating Systems, DBMS.
@@ -37,7 +39,7 @@ Currently, I specialize in **Java Full Stack** and **MERN Stack** development, w
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
@@ -53,8 +55,6 @@ Currently, I specialize in **Java Full Stack** and **MERN Stack** development, w
 ---
 
 # 📊 GitHub Stats:
-*(Note: Agar niche ke stats cards kabhi load na ho, toh wo Vercel/GitHub API rate limiting ki wajah se hota hai.)*
-
 ![](https://github-readme-stats.vercel.app/api?username=neeteshdixit&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=neeteshdixit&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=neeteshdixit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
